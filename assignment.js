@@ -54,7 +54,7 @@ function hotelCost(days){
 
 //Ans. to the question no-4
 
-var friends = ["Betu", "Moyna", "Nahiyaan", "Krishan", "Sarwar Putul"];
+var friends = ["Betu", "Moyna", "Nahiyaan", "Krishan", "Sarwar Putul", "Sharaf Uddin Mohammad sarwar", "Putul", "SP"];
 function megaFriend(friends){
     var megaFriend = "";
     for (var i = 0; i < friends.length; i++) {
